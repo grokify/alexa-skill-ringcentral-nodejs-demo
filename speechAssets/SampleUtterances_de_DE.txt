@@ -1,0 +1,3 @@
+RingCentralGetNewVoicemailCountIntent Überprüfen Sie meine Voicemail
+RingCentralGetNewVoicemailCountIntent Wie viele Voicemails habe ich
+RingCentralGetNewVoicemailCountIntent Voicemail zählen

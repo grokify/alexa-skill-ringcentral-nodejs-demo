@@ -1,0 +1,7 @@
+RingCentralGetNewVoicemailCountIntent check voicemail
+RingCentralGetNewVoicemailCountIntent check voicemail count
+RingCentralGetNewVoicemailCountIntent check my voicemail
+RingCentralGetNewVoicemailCountIntent to check my voicemail
+RingCentralGetNewVoicemailCountIntent give me voicemail
+RingCentralGetNewVoicemailCountIntent give me voicemails
+RingCentralGetNewVoicemailCountIntent voicemail count

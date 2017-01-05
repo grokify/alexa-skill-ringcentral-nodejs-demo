@@ -1,0 +1,24 @@
+{
+  "name": "alexa-skill-sample-ringcentral-nodejs",
+  "version": "1.0.0",
+  "description": "RingCentral demo Alexa skill with I18N help.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "ringcentral": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grokify/alexa-skill-sample-ringcentral-nodejs.git"
+  }
+}
