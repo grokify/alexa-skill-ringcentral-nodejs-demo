@@ -91,4 +91,5 @@ You can test on your actual physical Alexa device (e.g. Amazon Echo, Dot, etc.) 
 ## Additional Links
 
 * [Alexa fact sample skill](https://github.com/alexa/skill-sample-nodejs-fact)
+* [SSML - Speech Synthesis Markup Language](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference)
 * [Audio file playback error](https://forums.developer.amazon.com/questions/5915/error-playing-audio-file-from-s3-in-alexa-skill.html)
